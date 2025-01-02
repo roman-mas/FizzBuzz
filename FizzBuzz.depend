@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1735842399 source:d:\programmingprojects\fizzbuzz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1735834302 source:d:\programmingprojects\fizzbuzz\functions.c
+	<stdio.h>
+
+1735834325 d:\programmingprojects\fizzbuzz\functions.h
+
